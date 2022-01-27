@@ -1,0 +1,30 @@
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\bin\Debug\Лаба_1_ПО.exe.config
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\bin\Debug\Лаба_1_ПО.exe
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\bin\Debug\Лаба_1_ПО.pdb
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.csprojAssemblyReference.cache
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.Form1.resources
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.Properties.Resources.resources
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.csproj.GenerateResource.cache
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.csproj.CoreCompileInputs.cache
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.exe
+C:\Users\Костя  и  Паша\source\repos\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.pdb
+D:\Лаба_1_ПО\bin\Debug\Лаба_1_ПО.exe.config
+D:\Лаба_1_ПО\bin\Debug\Лаба_1_ПО.exe
+D:\Лаба_1_ПО\bin\Debug\Лаба_1_ПО.pdb
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.csproj.AssemblyReference.cache
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.Form1.resources
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.Properties.Resources.resources
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.csproj.GenerateResource.cache
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.csproj.CoreCompileInputs.cache
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.exe
+D:\Лаба_1_ПО\obj\Debug\Лаба_1_ПО.pdb
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\bin\Debug\Лаба_1_ПО.exe.config
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\bin\Debug\Лаба_1_ПО.exe
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\bin\Debug\Лаба_1_ПО.pdb
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.csprojAssemblyReference.cache
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.Form1.resources
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.Properties.Resources.resources
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.csproj.GenerateResource.cache
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.csproj.CoreCompileInputs.cache
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.exe
+E:\Паша\Курс C#\Проекты\Простые\Информация по железу\obj\Debug\Лаба_1_ПО.pdb
